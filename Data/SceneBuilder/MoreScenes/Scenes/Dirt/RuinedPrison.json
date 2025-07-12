@@ -1,0 +1,12 @@
+{
+	"structure": "MoreScenes:Dirt/RuinedPrison",
+	"generation": {
+		"canFlip": "Horizontal",
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Slime"
+			]
+		}
+	}
+}
