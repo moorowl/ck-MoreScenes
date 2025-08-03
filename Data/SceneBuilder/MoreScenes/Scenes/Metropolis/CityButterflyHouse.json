@@ -1,0 +1,11 @@
+{
+	"structure": "MoreScenes:Metropolis/CityButterflyHouse",
+	"generation": {
+		"dungeon": [
+			{
+				"internalName": "CityDungeon",
+				"sceneGroupIndex": 0
+			}
+		]
+	}
+}
