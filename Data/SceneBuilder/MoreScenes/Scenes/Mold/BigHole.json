@@ -1,0 +1,17 @@
+{
+	"structure": "MoreScenes:Mold/BigHole",
+	"generation": {
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Nature"
+			]
+		},
+		"dungeon": [
+			{
+				"internalName": "MoldDungeon0",
+				"sceneGroupIndex": 0
+			}
+		]
+	}
+}
